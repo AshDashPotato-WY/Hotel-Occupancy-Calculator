@@ -1,0 +1,6 @@
+Bob’s Hotel, 15, 5
+0
+John’s Hotel, 20, 5
+Hotel California, 100, 80
+Snugglebear 66, 50, 50
+Dumptruck Inn, 50, 100
